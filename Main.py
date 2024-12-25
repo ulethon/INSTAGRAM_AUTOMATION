@@ -1,6 +1,6 @@
 # *****************************
 
-# Credit Goes TO : Mr Sudo 0
+# Credit Goes TO : ulethon
 
 # *****************************
 
