@@ -72,4 +72,4 @@ Notes:
 * Excessive scraping may trigger account restrictions.
 
 Credit:
-Developed by Pushpraj Thakre (ulethon)
+Developed by ulethon
